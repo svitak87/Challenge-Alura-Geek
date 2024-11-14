@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Yellow Waggon",
+      "price": 99.99,
+      "image": "https://images.pexels.com/photos/981588/pexels-photo-981588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Super Mario Toys",
+      "price": 49.99,
+      "image": "https://images.pexels.com/photos/163077/mario-yoschi-figures-funny-163077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "Romball",
+      "price": 15.99,
+      "image": "https://images.pexels.com/photos/158838/pexels-photo-158838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Kitten House",
+      "price": 25.5,
+      "image": "https://images.pexels.com/photos/191360/pexels-photo-191360.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Batman Toys",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/69314/pexels-photo-69314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "name": "Duck Toys",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/132464/pexels-photo-132464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "name": "Product Test",
+      "price": "20.45",
+      "image": "https://images.pexels.com/photos/255514/pexels-photo-255514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 8,
+      "name": "Car Toys",
+      "price": "50.60",
+      "image": "https://images.pexels.com/photos/163696/toy-car-toy-box-mini-163696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 9,
+      "name": "Panzapan",
+      "price": "2500",
+      "image": "http://www.myimage.om"
+    },
+    {
+      "id": 10,
+      "name": "Nenemilker",
+      "price": "2500",
+      "image": "http://www.image.com"
+    },
+    {
+      "id": 11,
+      "name": "Nemilker",
+      "price": "2500",
+      "image": "http:www.com.com"
+    },
+    {
+      "id": 12,
+      "name": "Nemilker",
+      "price": "2500",
+      "image": "xzx<xz<x"
+    },
+    {
+      "id": 13,
+      "name": "Ginapanter",
+      "price": "3000",
+      "image": "htttp:hdsahjdas"
+    }
+  ]
+}

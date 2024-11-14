@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Alura Geek</title>
+</head>
+
+<body>
+    <header class="header_container">
+        <nav class="left_navbar_container">
+            <h1>❤️❤️❤️Alura Geek</h1>
+        </nav>
+        <nav class="right_navbar_container">
+            <button>Agregar producto</button>
+        </nav>
+    </header>
+    <main class="main_container">
+        <div class="cards_container">
+            <h2 class="mis_productos_title">Mis productos</h2>
+            <ul class="list_container" alt="productos_alura_geek" data-lista>
+            </ul>
+        </div>
+        <form class="form_container" data-form>
+            <h2 class="agregar_producto_title">Agregar un producto</h2>
+            <input placeholder="nombre" data-name required />
+            <input placeholder="precio" data-price required />
+            <input placeholder="imagen (url)" data-image required />
+            <button class="submit_button" type="submit">Crear</button>
+        </form>
+    </main>
+    <footer>
+        <div class=footer_container>
+            <small class=footer>&copy; 2024 <b>Svitak87</b> - En colaboración con <a class="alura"
+                    href="https://www.aluracursos.com" target="_blank">Alura Latam</a></small>
+            </a>
+            <a class=github href="https://github.com/svitak87" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-github"></i>
+            </a>
+        </div>
+    </footer>
+    <div class="popup_container">
+        <span id="close">&times;</span>
+        <p id="message-alert">Producto creado con éxito</p>
+    </div>
+    <script src="./script/product-list.js" type="module"></script>
+    <script src="./script/create-product.js" type="module"></script>
+</body>
+
+</html>
